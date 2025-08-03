@@ -1,84 +1,60 @@
 [
   {
-    "domain": "idp.egov.kz",
+    "domain": ".enis.kz",
+    "expiry": 1754224848,
     "httpOnly": false,
-    "name": "cltid",
+    "name": "__utmt",
     "path": "/",
     "sameSite": "Lax",
     "secure": false,
-    "value": "WRtk939W:egovauth"
+    "value": "1"
   },
   {
-    "domain": ".egov.kz",
+    "domain": ".enis.kz",
+    "expiry": 1769992248,
     "httpOnly": false,
-    "name": "dtSar39lqgza",
+    "name": "__utmz",
     "path": "/",
     "sameSite": "Lax",
     "secure": false,
-    "value": "-"
+    "value": "80547779.1754224248.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
   },
   {
-    "domain": ".egov.kz",
+    "domain": ".enis.kz",
+    "expiry": 1754226048,
     "httpOnly": false,
-    "name": "rxVisitorr39lqgza",
+    "name": "__utmb",
     "path": "/",
     "sameSite": "Lax",
     "secure": false,
-    "value": "1754179222693153GE5OQ23CB69OVI41EQ9GSBTJDLCKD"
+    "value": "80547779.1.10.1754224248"
   },
   {
-    "domain": ".egov.kz",
+    "domain": ".enis.kz",
     "httpOnly": false,
-    "name": "dtCookier39lqgza",
+    "name": "__utmc",
     "path": "/",
     "sameSite": "Lax",
     "secure": false,
-    "value": "v_4_srv_1_sn_EF9BD5DC69D95E85DDD4430BC97B097C_perc_100000_ol_0_mul_1_app-3Ae43f43f88c577f67_1"
+    "value": "80547779"
   },
   {
-    "domain": ".egov.kz",
+    "domain": ".enis.kz",
+    "expiry": 1788784248,
     "httpOnly": false,
-    "name": "dtPCr39lqgza",
+    "name": "__utma",
     "path": "/",
     "sameSite": "Lax",
     "secure": false,
-    "value": "1$379222657_926h-vVUNRMENLHQIBWWRBOOERJRNQLWJFHMRR-0e0"
+    "value": "80547779.1641528591.1754224248.1754224248.1754224248.1"
   },
   {
-    "domain": "idp.egov.kz",
-    "expiry": 1785715222,
+    "domain": "cabinet.enis.kz",
     "httpOnly": true,
-    "name": "cookiesession1",
+    "name": "ASP.NET_SessionId",
     "path": "/",
     "sameSite": "Lax",
     "secure": false,
-    "value": "678B76A3E7B308C0B06B9F7C506FC310"
-  },
-  {
-    "domain": ".egov.kz",
-    "httpOnly": false,
-    "name": "SSO",
-    "path": "/",
-    "sameSite": "Lax",
-    "secure": false,
-    "value": "84a4a34c-8af3-4004-ab05-b3300f91faf1"
-  },
-  {
-    "domain": ".egov.kz",
-    "httpOnly": false,
-    "name": "rxvtr39lqgza",
-    "path": "/",
-    "sameSite": "Lax",
-    "secure": false,
-    "value": "1754181023482|1754179222697"
-  },
-  {
-    "domain": "idp.egov.kz",
-    "httpOnly": false,
-    "name": "uuid",
-    "path": "/idp",
-    "sameSite": "Strict",
-    "secure": false,
-    "value": "a8603733-bf61-4e0a-8bca-6aa326bdc555"
+    "value": "b2znhsngvqqoiv55kr0g3f45"
   }
 ]
