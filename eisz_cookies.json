@@ -1,0 +1,59 @@
+[
+  {
+    "domain": "www.eisz.kz",
+    "expiry": 1754674164,
+    "httpOnly": false,
+    "name": "authsrv.cookie",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "dhSNFQnZubdtopu3x77AhpATFzdK8s05kQQTT-rbUIwGL_ZOJZI57R68UELcRjSzXRKDVCQgxZ14DPJU5xuZPj91JsVmIjVErgLsDqWqqTxc9zXkoL9s2aH6WHRa5XMpD4TFZ0BWSALWX-UidFuYnWJaIYEC2XPcb-B3JcSxS4uWiFCAaF6rUEXCUytR7V3hcpVpEy7Tg7rfexmF4JaVEY3ZWp-av_XtQ8gGl9q_YY1rryXKbzoImutcWqChZxjbuhJwMdhqR6uy3Tjioe2BJbvnp9q2GzP1R7JQtsEDRrl7b-R6DaFaeirW7JX0Ny2YC28cp8KXmuraKuADRayJ9iVLK2lLdw7k7txwbtJST1LVo60EktbFoxryghZw2I26WthfugDjpRBoaqVx8Z0fQgk870EJXN2Al36Ss_gP6IVFJOXBLWEhswAi0PysZoIUdj1Jv2VKMWWMBui_d2sTygoJDKzdVRV-5wls_0LYjADW8q4BzWb8QrGFhs0dm0haQNQ0k7axJh8MhMMBagk8iNM6tDb7-bKrVIsfFnVlV0Uq1r6ov2CxY-W0SdISt-E3RXKFYq_9cZqFvZLqynZcXw"
+  },
+  {
+    "domain": "www.eisz.kz",
+    "httpOnly": true,
+    "name": "ASP.NET_SessionId",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "busdfnpwguue15a11a1c5h3e"
+  },
+  {
+    "domain": "www.eisz.kz",
+    "expiry": 1786195685,
+    "httpOnly": false,
+    "name": "_culture",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "ru-RU"
+  },
+  {
+    "domain": "www.eisz.kz",
+    "httpOnly": true,
+    "name": "__RequestVerificationToken",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "iABEFstNvbwnsSAhEy3zy6Wv_E_rG-Ttn3RmdbRlRZ0owjSoP9upULoWsLWV9QLIoua-XhHJ9osSD6-d3IBNGG5fCQXZHdYd4P0Cc5ehgGM1"
+  },
+  {
+    "domain": ".eisz.kz",
+    "httpOnly": false,
+    "name": "UID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "c364b1179404ec11ab7c005056a5b6f9"
+  },
+  {
+    "domain": "www.eisz.kz",
+    "expiry": 1786195703,
+    "httpOnly": false,
+    "name": "Eternal",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "7rceMT8qhia7aLhX4cyfLDTALjt2Wef"
+  }
+]
