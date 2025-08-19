@@ -2,13 +2,13 @@
   "cookies": [
     {
       "domain": "www.eisz.kz",
-      "expiry": 1755626408,
+      "expiry": 1755626768,
       "httpOnly": false,
       "name": "authsrv.cookie",
       "path": "/",
       "sameSite": "Lax",
       "secure": false,
-      "value": "fyzTvhvf43Pijs6-O9AXBfPqiHxldmfUMXcUJNC8Qt_sIbzd3hec05cW89D1eMrTOFbdxvawd5wengPm1JNf7uSQk4eSy6Q5NHueti0MDjU3LUpdHGRz9kQsW7v6v5UpJ3B7Z-VgcYUW1DgMBGmqxom4RtOuEomB_0Yw6kVfzLnc1rFWPvnqIgrqiP5zfL6ONnQLJ-kDPIoPfDv0X9VpN2OADcdDjUDJ4qzsmjHaqrUd1keeSGKPzG63auqpVe-6SU_iPzO5AJcuwPKLRFlJ4l4WJvFjrlLoeP8Zx6k4nq7J4fSrze03cc4b-mB0cUiLjXj4gbMgKm2BHF8dcKBolPJlV_RgdWb0l1_wIVkX1uDQfaIsVyYw42vpeuMBFJM-AE1vC7Pfrtob8wYdvwOvQ-iPwva6nkLsuRyIt5I3kxpQk9ZL-GepinuhczqaVDyOfWv8Gm0NOjewVABd9RGWOgkKuPDzBWyeqSBcidW9R83VKQHacvD2R8EQ3awJR1Bh_Fw1MOI08a4PCzbu7uUX-lRaKeNx6W09fUL3_gNjCxZETj8fTKu_taW1tUHTvQn7XV4PVj6ASGiAQrCBxTSTEKqQ9wvwCZOel0Qa5zkxzBI"
+      "value": "OnK5RiglU1HCgsXpfS-EHqY2bZkZZTKgsV34WbaNkigRCxEXKgcsoyTH5wdSFC5ErjGhmTuLVGhrkAdF5DqTIsb-s-o5AvcDSy3INcs2jBlUZjnuMdRFfNP_S1V7lkXD7g4XXraiJrws7K1nftNXeDIQn_S4GLQvwwc8kXbHREaiyE6rofU5iKcJKQPNlzTb0Dz2MpmRH7jxLrGQ1w0Y3Pjj4W-JT8fXS82mZTH9r41vBm5-9pu6jXnwWdWJcZmm-sBRoNoCp9-6ciIlXObJTYkRnBx28tvUyCZVElf92l_B5AddhDIzHBh5QUU1-RENbupA6CgN4jTvQAVGtPgpCS0QbFE0Zt5Tyf8kZ7mtrRxKhKRI8rf5J2oIE4IootvfN-KtLSxZE7gE8uSjFsELK4EGdpTwYG8huSFR8N3Vg_x5-pTsrE-fSHqyCx6PGnx5_vSbxRfa_IJdM36z-KMQKJyeOhogOrm5hlqQ-d52a5olpUzO4Hfj3TVBASTlHOLgL9EZBKH5ecTPRRCHIMiyr1zEBByUSAa4cSi6GcPclO5sQKA5zJn3OjeHsO0YZyJm9m4WJh-PXbvbsd7UY17a3QP8CzsddF4H0zALD6MzafM"
     },
     {
       "domain": "www.eisz.kz",
@@ -17,11 +17,11 @@
       "path": "/",
       "sameSite": "Lax",
       "secure": false,
-      "value": "smyryrr2gocc4ufzpg54vtba"
+      "value": "drldhwssyj1dbtpycli0vqfr"
     },
     {
       "domain": "www.eisz.kz",
-      "expiry": 1787147967,
+      "expiry": 1787148336,
       "httpOnly": false,
       "name": "_culture",
       "path": "/",
@@ -36,7 +36,7 @@
       "path": "/",
       "sameSite": "Lax",
       "secure": false,
-      "value": "BmRKf-yaFHJBUNYvc53qIoq0iFx8K_Ex5Cpmxtxi53MSmaKotM0NrfZAPt790thPu5QGO0TDwd0tWbuoDS2gBbL4detDmM035DL3qpmMgK81"
+      "value": "QFBrOchNd5vdPhMxuAz7g4Rpq6QdpcCnD-pg3ILtjFUGcXmZHzCUhWDKJYloP33x0ySpMPcfGBjkYRqXkNTpG9AejL4IinFvJ8v8lTa0KaU1"
     },
     {
       "domain": ".eisz.kz",
@@ -49,13 +49,13 @@
     },
     {
       "domain": "www.eisz.kz",
-      "expiry": 1787147979,
+      "expiry": 1787148342,
       "httpOnly": false,
       "name": "Eternal",
       "path": "/",
       "sameSite": "Lax",
       "secure": false,
-      "value": "vKePsOWGHLzlH8imdvxXGyHB74tT7mN"
+      "value": "o4KUdczxjV7tGwhIYQjJzTTETphpWwU"
     }
   ],
   "localStorage": {},
