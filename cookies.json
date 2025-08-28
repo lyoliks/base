@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "domain": "cabinet.enis.kz",
+    "httpOnly": true,
+    "name": "ASP.NET_SessionId",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "otlm4u55ko0qma2by0xsoc45"
+  }
+]
