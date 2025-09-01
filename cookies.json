@@ -1,7 +1,7 @@
 [
   {
     "domain": "cabinet.enis.kz",
-    "expiry": 1791113081,
+    "expiry": 1791275107,
     "httpOnly": false,
     "name": "LraId",
     "path": "/",
@@ -10,34 +10,44 @@
     "value": "195"
   },
   {
-    "domain": ".enis.kz",
-    "expiry": 1756554880,
+    "domain": "cabinet.enis.kz",
+    "expiry": 1788251107,
     "httpOnly": false,
-    "name": "__utmb",
+    "name": "isDefaulter",
     "path": "/",
     "sameSite": "Lax",
     "secure": false,
-    "value": "80547779.1.10.1756553080"
+    "value": "False"
   },
   {
     "domain": ".enis.kz",
-    "expiry": 1791113080,
+    "expiry": 1756715706,
     "httpOnly": false,
-    "name": "__utma",
+    "name": "__utmt",
     "path": "/",
     "sameSite": "Lax",
     "secure": false,
-    "value": "80547779.1963076255.1756553080.1756553080.1756553080.1"
+    "value": "1"
   },
   {
     "domain": ".enis.kz",
-    "expiry": 1772321080,
+    "expiry": 1772483106,
     "httpOnly": false,
     "name": "__utmz",
     "path": "/",
     "sameSite": "Lax",
     "secure": false,
-    "value": "80547779.1756553080.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
+    "value": "80547779.1756715106.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
+  },
+  {
+    "domain": ".enis.kz",
+    "expiry": 1756716906,
+    "httpOnly": false,
+    "name": "__utmb",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "80547779.1.10.1756715106"
   },
   {
     "domain": ".enis.kz",
@@ -49,24 +59,14 @@
     "value": "80547779"
   },
   {
-    "domain": "cabinet.enis.kz",
-    "expiry": 1788089081,
-    "httpOnly": false,
-    "name": "isDefaulter",
-    "path": "/",
-    "sameSite": "Lax",
-    "secure": false,
-    "value": "False"
-  },
-  {
     "domain": ".enis.kz",
-    "expiry": 1756553680,
+    "expiry": 1791275106,
     "httpOnly": false,
-    "name": "__utmt",
+    "name": "__utma",
     "path": "/",
     "sameSite": "Lax",
     "secure": false,
-    "value": "1"
+    "value": "80547779.519683356.1756715106.1756715106.1756715106.1"
   },
   {
     "domain": "cabinet.enis.kz",
@@ -75,6 +75,6 @@
     "path": "/",
     "sameSite": "Lax",
     "secure": false,
-    "value": "lxqugbmwz4bsvxyvwdqv3155"
+    "value": "tmxjgp45ajdvmt45ewwmqf45"
   }
 ]
