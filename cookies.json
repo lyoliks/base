@@ -1,7 +1,27 @@
 [
   {
+    "domain": "cabinet.enis.kz",
+    "expiry": 1792753495,
+    "httpOnly": false,
+    "name": "LraId",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "195"
+  },
+  {
+    "domain": "cabinet.enis.kz",
+    "expiry": 1789729495,
+    "httpOnly": false,
+    "name": "isDefaulter",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "False"
+  },
+  {
     "domain": ".enis.kz",
-    "expiry": 1758152326,
+    "expiry": 1758194094,
     "httpOnly": false,
     "name": "__utmt",
     "path": "/",
@@ -11,23 +31,23 @@
   },
   {
     "domain": ".enis.kz",
-    "expiry": 1773919726,
+    "expiry": 1773961494,
     "httpOnly": false,
     "name": "__utmz",
     "path": "/",
     "sameSite": "Lax",
     "secure": false,
-    "value": "80547779.1758151727.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
+    "value": "80547779.1758193495.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
   },
   {
     "domain": ".enis.kz",
-    "expiry": 1758153526,
+    "expiry": 1758195294,
     "httpOnly": false,
     "name": "__utmb",
     "path": "/",
     "sameSite": "Lax",
     "secure": false,
-    "value": "80547779.1.10.1758151727"
+    "value": "80547779.1.10.1758193495"
   },
   {
     "domain": ".enis.kz",
@@ -40,13 +60,13 @@
   },
   {
     "domain": ".enis.kz",
-    "expiry": 1792711726,
+    "expiry": 1792753494,
     "httpOnly": false,
     "name": "__utma",
     "path": "/",
     "sameSite": "Lax",
     "secure": false,
-    "value": "80547779.1268873254.1758151727.1758151727.1758151727.1"
+    "value": "80547779.1013379481.1758193495.1758193495.1758193495.1"
   },
   {
     "domain": "cabinet.enis.kz",
@@ -55,6 +75,6 @@
     "path": "/",
     "sameSite": "Lax",
     "secure": false,
-    "value": "tz2e4rvxj2tzjk55r01ecgrs"
+    "value": "elr0mmyyvalf2jexlcjnsu55"
   }
 ]
