@@ -1,80 +1,67 @@
-[
-  {
-    "domain": "cabinet.enis.kz",
-    "expiry": 1792753495,
-    "httpOnly": false,
-    "name": "LraId",
-    "path": "/",
-    "sameSite": "Lax",
-    "secure": false,
-    "value": "195"
-  },
-  {
-    "domain": "cabinet.enis.kz",
-    "expiry": 1789729495,
-    "httpOnly": false,
-    "name": "isDefaulter",
-    "path": "/",
-    "sameSite": "Lax",
-    "secure": false,
-    "value": "False"
-  },
-  {
-    "domain": ".enis.kz",
-    "expiry": 1758194094,
-    "httpOnly": false,
-    "name": "__utmt",
-    "path": "/",
-    "sameSite": "Lax",
-    "secure": false,
-    "value": "1"
-  },
-  {
-    "domain": ".enis.kz",
-    "expiry": 1773961494,
-    "httpOnly": false,
-    "name": "__utmz",
-    "path": "/",
-    "sameSite": "Lax",
-    "secure": false,
-    "value": "80547779.1758193495.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
-  },
-  {
-    "domain": ".enis.kz",
-    "expiry": 1758195294,
-    "httpOnly": false,
-    "name": "__utmb",
-    "path": "/",
-    "sameSite": "Lax",
-    "secure": false,
-    "value": "80547779.1.10.1758193495"
-  },
-  {
-    "domain": ".enis.kz",
-    "httpOnly": false,
-    "name": "__utmc",
-    "path": "/",
-    "sameSite": "Lax",
-    "secure": false,
-    "value": "80547779"
-  },
-  {
-    "domain": ".enis.kz",
-    "expiry": 1792753494,
-    "httpOnly": false,
-    "name": "__utma",
-    "path": "/",
-    "sameSite": "Lax",
-    "secure": false,
-    "value": "80547779.1013379481.1758193495.1758193495.1758193495.1"
-  },
-  {
-    "domain": "cabinet.enis.kz",
-    "httpOnly": true,
-    "name": "ASP.NET_SessionId",
-    "path": "/",
-    "sameSite": "Lax",
-    "secure": false,
-    "value": "elr0mmyyvalf2jexlcjnsu55"
-  }
-]
+{
+  "cookies": [
+    {
+      "domain": "crm431241.ru",
+      "expiry": 1760486383,
+      "httpOnly": true,
+      "name": "session_id",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "O8_M4kjQssuepYNbshkEl-H1vlAVH9q_cJqLa8WBC4E.5d5f7499e48cb2db"
+    },
+    {
+      "domain": "crm431241.ru",
+      "expiry": 1760486383,
+      "httpOnly": false,
+      "name": "csrf_token",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "SQL-rK9p_PTgQEVjMvnN2N6X6BuhAGkEzLzy0GI1OwY.1760450382.ca38535b9b890ec8f42c78936247860dba824cabfad9893925276d91d56bd540"
+    },
+    {
+      "domain": "crm431241.ru",
+      "expiry": 1760486383,
+      "httpOnly": true,
+      "name": "__Secure-session_id",
+      "path": "/",
+      "sameSite": "Strict",
+      "secure": true,
+      "value": "O8_M4kjQssuepYNbshkEl-H1vlAVH9q_cJqLa8WBC4E.5d5f7499e48cb2db"
+    },
+    {
+      "domain": "crm431241.ru",
+      "expiry": 1760486383,
+      "httpOnly": false,
+      "name": "__Secure-csrf_token",
+      "path": "/",
+      "sameSite": "Strict",
+      "secure": true,
+      "value": "SQL-rK9p_PTgQEVjMvnN2N6X6BuhAGkEzLzy0GI1OwY.1760450382.ca38535b9b890ec8f42c78936247860dba824cabfad9893925276d91d56bd540"
+    },
+    {
+      "domain": "crm431241.ru",
+      "expiry": 1760486383,
+      "httpOnly": true,
+      "name": "access_token",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5NiIsInVzZXJuYW1lIjoiR3JheTIiLCJyb2xlIjoiVVNFUiIsInNlc3Npb25faWQiOiJPOF9NNGtqUXNzdWVwWU5ic2hrRWwtSDF2bEFWSDlxX2NKcUxhOFdCQzRFIiwiZGV2aWNlX2ZwX2hhc2giOiI4ZGQwZjkwNzI3ZjNiNDQ0ZjdiMDZkZmMzZDA2YzU2OTBhNGMyZThkMTcwNDBlMjVkZDZhNmQyYWE2NDhhNGQzIiwiaXNzIjoiYWVnaXMtYXV0aCIsImF1ZCI6ImFlZ2lzLWFwaSIsImlhdCI6MTc2MDQ1MDM4MiwiZXhwIjoxNzYwNDg2MzgyLCJqdGkiOiJDa0dFTGVrMkV4ZjhZMjVmNkpwY1NnIn0.QFEKzy1_ABTjZvOUlzXjVEw9PrvveF2iv2gamk-LAz4"
+    },
+    {
+      "domain": "crm431241.ru",
+      "expiry": 1760486383,
+      "httpOnly": true,
+      "name": "__Secure-access_token",
+      "path": "/",
+      "sameSite": "Strict",
+      "secure": true,
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5NiIsInVzZXJuYW1lIjoiR3JheTIiLCJyb2xlIjoiVVNFUiIsInNlc3Npb25faWQiOiJPOF9NNGtqUXNzdWVwWU5ic2hrRWwtSDF2bEFWSDlxX2NKcUxhOFdCQzRFIiwiZGV2aWNlX2ZwX2hhc2giOiI4ZGQwZjkwNzI3ZjNiNDQ0ZjdiMDZkZmMzZDA2YzU2OTBhNGMyZThkMTcwNDBlMjVkZDZhNmQyYWE2NDhhNGQzIiwiaXNzIjoiYWVnaXMtYXV0aCIsImF1ZCI6ImFlZ2lzLWFwaSIsImlhdCI6MTc2MDQ1MDM4MiwiZXhwIjoxNzYwNDg2MzgyLCJqdGkiOiJDa0dFTGVrMkV4ZjhZMjVmNkpwY1NnIn0.QFEKzy1_ABTjZvOUlzXjVEw9PrvveF2iv2gamk-LAz4"
+    }
+  ],
+  "localStorage": {},
+  "sessionStorage": {},
+  "current_url": "https://crm431241.ru/dashboard"
+}
