@@ -1,67 +1,12 @@
-{
-  "cookies": [
-    {
-      "domain": "crm431241.ru",
-      "expiry": 1760490389,
-      "httpOnly": true,
-      "name": "session_id",
-      "path": "/",
-      "sameSite": "Lax",
-      "secure": false,
-      "value": "wnljY23UQ9ldcveGPrfUUvMa_Q1-BFj_ZOGd_IfQpe8.59862d957dc0d1bb"
-    },
-    {
-      "domain": "crm431241.ru",
-      "expiry": 1760490389,
-      "httpOnly": false,
-      "name": "csrf_token",
-      "path": "/",
-      "sameSite": "Lax",
-      "secure": false,
-      "value": "dQN8Jcz96MDJQH9ukHh6j4UboGKRwsT6BU5TFxcoWVE.1760454388.df2d812ac1acbe5370e3fc68f40eb684f289aa04f72105113692f93fdee9aae9"
-    },
-    {
-      "domain": "crm431241.ru",
-      "expiry": 1760490389,
-      "httpOnly": true,
-      "name": "__Secure-session_id",
-      "path": "/",
-      "sameSite": "Strict",
-      "secure": true,
-      "value": "wnljY23UQ9ldcveGPrfUUvMa_Q1-BFj_ZOGd_IfQpe8.59862d957dc0d1bb"
-    },
-    {
-      "domain": "crm431241.ru",
-      "expiry": 1760490389,
-      "httpOnly": false,
-      "name": "__Secure-csrf_token",
-      "path": "/",
-      "sameSite": "Strict",
-      "secure": true,
-      "value": "dQN8Jcz96MDJQH9ukHh6j4UboGKRwsT6BU5TFxcoWVE.1760454388.df2d812ac1acbe5370e3fc68f40eb684f289aa04f72105113692f93fdee9aae9"
-    },
-    {
-      "domain": "crm431241.ru",
-      "expiry": 1760490389,
-      "httpOnly": true,
-      "name": "access_token",
-      "path": "/",
-      "sameSite": "Lax",
-      "secure": false,
-      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5NiIsInVzZXJuYW1lIjoiR3JheTIiLCJyb2xlIjoiVVNFUiIsInNlc3Npb25faWQiOiJ3bmxqWTIzVVE5bGRjdmVHUHJmVVV2TWFfUTEtQkZqX1pPR2RfSWZRcGU4IiwiZGV2aWNlX2ZwX2hhc2giOiJlZGJmN2M2YzM3ZDlkYWQ1M2IxYTgxMWQ1OTQ3MTUyNzA4ODVkYTk4ZjUxNjlmMTMyNWE1OWI4YmI4OTFmNzQ4IiwiaXNzIjoiYWVnaXMtYXV0aCIsImF1ZCI6ImFlZ2lzLWFwaSIsImlhdCI6MTc2MDQ1NDM4OCwiZXhwIjoxNzYwNDkwMzg4LCJqdGkiOiI1UFloYnZycmh3Q3dhdjVTaWMzbDNnIn0.VXXiwFxQLnvWGow_pzdi8OAPO-sGZd3xeknyx_KoN0k"
-    },
-    {
-      "domain": "crm431241.ru",
-      "expiry": 1760490389,
-      "httpOnly": true,
-      "name": "__Secure-access_token",
-      "path": "/",
-      "sameSite": "Strict",
-      "secure": true,
-      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5NiIsInVzZXJuYW1lIjoiR3JheTIiLCJyb2xlIjoiVVNFUiIsInNlc3Npb25faWQiOiJ3bmxqWTIzVVE5bGRjdmVHUHJmVVV2TWFfUTEtQkZqX1pPR2RfSWZRcGU4IiwiZGV2aWNlX2ZwX2hhc2giOiJlZGJmN2M2YzM3ZDlkYWQ1M2IxYTgxMWQ1OTQ3MTUyNzA4ODVkYTk4ZjUxNjlmMTMyNWE1OWI4YmI4OTFmNzQ4IiwiaXNzIjoiYWVnaXMtYXV0aCIsImF1ZCI6ImFlZ2lzLWFwaSIsImlhdCI6MTc2MDQ1NDM4OCwiZXhwIjoxNzYwNDkwMzg4LCJqdGkiOiI1UFloYnZycmh3Q3dhdjVTaWMzbDNnIn0.VXXiwFxQLnvWGow_pzdi8OAPO-sGZd3xeknyx_KoN0k"
-    }
-  ],
-  "localStorage": {},
-  "sessionStorage": {},
-  "current_url": "https://crm431241.ru/dashboard"
-}
+[
+  {
+    "domain": ".dmed.kz",
+    "expiry": 1760552640,
+    "httpOnly": true,
+    "name": "damumed",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "Et3oCIgThRlguzv5nKRtVo7RODrVNROTMeJNzbU4moFEGWt0dyP068QlsOjPGAHABbXnd0pmtCudIyCZytDg-E_OpPIxjET95Ceu0CPPb8w0xenz_PuM1YJNrJ5e28oE_owjGnuQxyVvSaOYNva1cjbSFfpaWcsten63bKzShvC1iXf63jyuZZWu7FrJ4YJDsKb80iFrGsKlCd580UuZlAxrZtDau3_XVKcnWLXo9xdWSJAITX2gK9LjreCR6pSrW8jncV5kAEbirFev7KTbBsjnvB1qK7PlQshuuPe3NF0UWkRg5v4qYQ1IqCGzmSrj3h_xG4I-YR5V73a-Y2ArkwjO4sDrUlB6tNYlUFF8uxY94tqIVkkWcoWD6zj3AuFydljC-ZJ8yPdFSdYLoFrgYXv4ZwX-OTHbLNoHQYjCsS7c_OSbLOvMQICRBIfUY6pNmVKPgKb9ElwaM8tdBz6aVJEHoW1q5UNpVF1t4ZaTV7Xpj7fT6dSkCpqMKnI8AEusoHuKy1CNpHj9p3Dbd5z8QuHBE94u5Sjd6vhTDAwGrofOPlqqcDLhLAEBHMEyj4Sfp8DmzDbxXXcwhhzYuEfdR9fCFfdPsOny-aXx3oJveJGigc1bmIMqx3kvR6WbZkn-JRJsXXiO6whatJPnTXUY1OcyUET-uxG167T6csVrdNPBAd5fvicrnbJpd9pe2YBMxPmWAFmOAF-4Zq8gSe1brLqvgzJNCLOt0cxHfre2Owc53OPiIhZxTRC7VRyXSJDoDgfd1C92HSZRissBjCSkICoxWgDUA6Qh3Hh5VdJ1reaocPJcJhiGtmviE0WZzSAZFQkQpF9bnAm7l9tkE-aIkJdN3CYYoecfKA8dTxdlKABhL2WggRSNxukeWp8BOiuteFPU34p6wPDPDDdwhdinsaxtOrjKbaGEaxc05qmDxVkFd67FuRoGeBOLmnKeuxb1le07NEDq0WJBEDxog6ocycwlDaBl4N4HOnSf-fqkQRIQT-scBPMZfUniEQkxnNUcKC0d4ylNjIyQU4m0Hn9FQqrN-XAp_yk392CTRcadLV-z9p5G9BlP6sFL5X5SfwoSCpY0i9YqYGYP-zLoj6Yh5li6jy8LH_aLku0N8i0vhiXKDQ5hKVcdNd5-s8bGVZMAf8qG3MwgcTISmq0p6RuiMFoTLqKNOgVNiW_9UbiFH2HHkiFWZwp08N-Pj_u5kMZYcMF4Bp9Ka2eKBYtKB6iFZqWWJaMG5Wca8mXuk37Zs0-rm8MnkZddvxMwV9gFIzUwMxETw9VFLb8LTVR9NwFlUsiHTfBx7vJ4EjHLEeAQ5jNMklI2dKsW4B-5qXOACLl9H4wAKIK7hHdrRw8qHwwkEp_COxRap6E5UWZbOfMiGE-2W_BBSTosN2V_U0f4dR21PU-tEWioBAFVWNy59K1GAr9WiNSFGVlDlKrGGf5BDDYHFxxCILXmHxObmy51bR10prhl-DJSbjw0_5fmvAw3A0NCw9KdXKJ5ccB7t0H8i7FaBtJVfxJUFHIsV_pxk6MZX-bfyFXXcavva0xwPlTNusNlc4hJTYkrMNaHUfKwQN42R04J4HCbrEpw2oJ-wLLln7o6oRmHAMksYEgF5cnU9A0z9Y_Pk-S7sm-7120es4m9nksDBa68W2tHKBDbvVIv6c5qWTh9S2R1w1NMMR6N4EQbYCPvEKEHq2k1dy4f5Owx1nSur8yTyvcJZSLd_Nl8Ugq9eOB_PC7R83ABXX70VcDcptaZuylSBCwCNDI4g4Q77ij0Hx3lWWCdws8yZ29pM0rcsUsmZauylMnbxKEUhzw991L78ExvxGZo3ZhwUFE7rpq3lshjrXmdxdAVQM-NQVhnakk6DZyl30pKOyI081uB2LrpmxF18pzm39Iivd7mRc-S1YTxPz3p9vD59xSZcVeL0YuOTUCFpHuSlEcyHDgp11mIPN2IdkxEEkwNz5yQzKo60DlIqNiuQthbN-ogs8gKLLQN6b0VpO2JS2fMGSepphmE7et_baXWsqiXlFS5buSdUKr6D1rn3e44nWVt8FiA9BvlXgWTKVDBRytipKp_TO39n2rp1iGk4lrNwDYlrjVFEFhlxlFAnTE7ZmGMaeIlHTGiwF6iKn4LH4I8C72BKPVqoDsMyIQ1G7IjgwimX1cW36gDaEKBHJNEyFKr_1QOMl3xceGcIsn6i5H7b7NCC-Sl0rLaEI2edF2kVcfxVuGvo9IPYhm3klN3lkiBO0g6_I_LZjbB1gcD6Tk99U2ONNzEHWAFW5ZQDtQM8Bbye5Cro7fX4gYYJcus-lWozpnSWO0xeQT8PKb7zH17UDV-DxLkQQpqJR3gdQwnsRT4iuAP_YUfeDnqF8KUX2Ut2TelKg"
+  }
+]
